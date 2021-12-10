@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OliviaChan00
-- 👀 I’m interested in the arts
-- 🌱 I’m currently learning geograpghy and sociology
+- 👀 I’m studying geograpghy and sociology at Mount Holyoke College
+- 🌱 I’m learning GIS, CAD, Python, Java, RStudio
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me chan22o@mtholyoke.edu
+- 📫 How to reach me chan22o@mtholyoke.edu or reach me on my Linkden www.linkedin.com/in/olivia-chan-5a16171b2
 
 <!---
 OliviaChan00/OliviaChan00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
