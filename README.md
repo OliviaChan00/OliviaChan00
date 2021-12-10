@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OliviaChan00
+- 👋 Hi, I’m Olivia Chan 
 - 👀 I’m studying geograpghy and sociology at Mount Holyoke College
 - 🌱 I’m learning GIS, CAD, Python, Java, RStudio
 - 💞️ I’m looking to collaborate on anything!
